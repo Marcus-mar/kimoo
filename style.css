@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    text-transform: uppercase;
+    font-size: 2rem;
+  }
+  
+  .poster {
+    width: 80%;
+    margin-left: 5%;
+    margin-top: 10px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+  }
+  
+  .kimo {
+    border: 5px solid white;
+    height:800px
+    weight:400px
+  }
